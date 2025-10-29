@@ -1076,10 +1076,6 @@ video {
     position: relative;
   }
 
-  .lg\:inline {
-    display: inline;
-  }
-
   .lg\:flex {
     display: flex;
   }
@@ -1094,10 +1090,6 @@ video {
 
   .lg\:flex-row-reverse {
     flex-direction: row-reverse;
-  }
-
-  .lg\:items-baseline {
-    align-items: baseline;
   }
 
   .lg\:bg-none {
